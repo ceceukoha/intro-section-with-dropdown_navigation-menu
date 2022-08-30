@@ -327,7 +327,6 @@ body {
     100%{opacity: 0;}
   }
   .overlay .mobile-nav {
-    height: 150vw;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
