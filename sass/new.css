@@ -327,7 +327,7 @@ body {
     100%{opacity: 0;}
   }
   .overlay .mobile-nav {
-    height: 150vw;
+    /* height: 150vw; */
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -344,7 +344,7 @@ body {
     padding-left: 15px;
     padding-top: 30px;
     inset: 0 0 0 40%;
-    width: 50%;
+    width: 60%;
   }
   .overlay .mobile-nav #close-img {
     float: right;
